@@ -177,11 +177,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HiPo\\DemoApplication\\DemoApplication.csproj",
+      "projectUniqueName": "C:\\HiPo\\C Sharp\\DemoApplication\\DemoApplication.csproj",
       "projectName": "DemoApplication",
-      "projectPath": "C:\\HiPo\\DemoApplication\\DemoApplication.csproj",
+      "projectPath": "C:\\HiPo\\C Sharp\\DemoApplication\\DemoApplication.csproj",
       "packagesPath": "C:\\Users\\sabapathi.shanmugam\\.nuget\\packages\\",
-      "outputPath": "C:\\HiPo\\DemoApplication\\obj\\",
+      "outputPath": "C:\\HiPo\\C Sharp\\DemoApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
